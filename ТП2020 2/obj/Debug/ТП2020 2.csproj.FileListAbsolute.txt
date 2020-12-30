@@ -1,0 +1,11 @@
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\bin\Debug\ТП2020 2.exe.config
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\bin\Debug\ТП2020 2.exe
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\bin\Debug\ТП2020 2.pdb
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020 2.csprojAssemblyReference.cache
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020_2.Form1.resources
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020_2.Properties.Resources.resources
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020 2.csproj.GenerateResource.cache
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020 2.csproj.CoreCompileInputs.cache
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020 2.exe
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020 2.pdb
+C:\Users\Dimkasho\source\repos\ТП2020 2\ТП2020 2\obj\Debug\ТП2020_2.FormAdd.resources
